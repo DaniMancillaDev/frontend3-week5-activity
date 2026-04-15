@@ -1,3 +1,10 @@
+# 1.0.0 (2026-04-15)
+
+
+### Features
+
+* Actualizar nombre de marca a JuegoPedia en el navbar ([a91ba41](https://github.com/DaniMancillaDev/frontend3-week5-activity/commit/a91ba41844673a6df0c558c33e714ab10dcb4854))
+
 # [1.2.0](https://github.com/JosephRangel/frontend3-week5-activity/compare/v1.1.0...v1.2.0) (2026-04-13)
 
 

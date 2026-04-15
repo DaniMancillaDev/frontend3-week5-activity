@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/DaniMancillaDev/frontend3-week5-activity/compare/v1.0.0...v1.0.1) (2026-04-15)
+
+
+### Bug Fixes
+
+* Corregir nombre a JuegoPedia en navbar ([c034b27](https://github.com/DaniMancillaDev/frontend3-week5-activity/commit/c034b278f0a2291e6f9dc5585b57d3a0233e5866))
+
 # 1.0.0 (2026-04-15)
 
 

@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <Link to="/" className="nav-logo">
-        🛒 TechStore
+        🎮 GamePedia
       </Link>
 
       <div className="nav-links">

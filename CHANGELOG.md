@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/DaniMancillaDev/frontend3-week5-activity/compare/v1.0.1...v1.1.0) (2026-04-15)
+
+
+### Features
+
+* Actualizar título de página a JuegoPedia ([401a0b9](https://github.com/DaniMancillaDev/frontend3-week5-activity/commit/401a0b9a5828b876716a67ccd48941f588dbd9d1))
+
 ## [1.0.1](https://github.com/DaniMancillaDev/frontend3-week5-activity/compare/v1.0.0...v1.0.1) (2026-04-15)
 
 
